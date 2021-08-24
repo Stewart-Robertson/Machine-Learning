@@ -2,7 +2,6 @@
 
 The algorithms used include:
 * KNN
-* KMeans
 * Logistic Regression
 * Decision Trees
 * Random Forest
